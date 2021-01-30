@@ -1,0 +1,4 @@
+*.out
+*.o
+crypto/*.o
+utils/*.o
